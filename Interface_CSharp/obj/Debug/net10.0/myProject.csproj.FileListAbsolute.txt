@@ -1,0 +1,15 @@
+G:\bf7bf5b1556d35978b0132e017a849b3\Interface_CSharp\bin\Debug\net10.0\myProject.exe
+G:\bf7bf5b1556d35978b0132e017a849b3\Interface_CSharp\bin\Debug\net10.0\myProject.deps.json
+G:\bf7bf5b1556d35978b0132e017a849b3\Interface_CSharp\bin\Debug\net10.0\myProject.runtimeconfig.json
+G:\bf7bf5b1556d35978b0132e017a849b3\Interface_CSharp\bin\Debug\net10.0\myProject.dll
+G:\bf7bf5b1556d35978b0132e017a849b3\Interface_CSharp\bin\Debug\net10.0\myProject.pdb
+G:\bf7bf5b1556d35978b0132e017a849b3\Interface_CSharp\obj\Debug\net10.0\myProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\bf7bf5b1556d35978b0132e017a849b3\Interface_CSharp\obj\Debug\net10.0\myProject.AssemblyInfoInputs.cache
+G:\bf7bf5b1556d35978b0132e017a849b3\Interface_CSharp\obj\Debug\net10.0\myProject.AssemblyInfo.cs
+G:\bf7bf5b1556d35978b0132e017a849b3\Interface_CSharp\obj\Debug\net10.0\myProject.csproj.CoreCompileInputs.cache
+G:\bf7bf5b1556d35978b0132e017a849b3\Interface_CSharp\obj\Debug\net10.0\myProject.sourcelink.json
+G:\bf7bf5b1556d35978b0132e017a849b3\Interface_CSharp\obj\Debug\net10.0\myProject.dll
+G:\bf7bf5b1556d35978b0132e017a849b3\Interface_CSharp\obj\Debug\net10.0\refint\myProject.dll
+G:\bf7bf5b1556d35978b0132e017a849b3\Interface_CSharp\obj\Debug\net10.0\myProject.pdb
+G:\bf7bf5b1556d35978b0132e017a849b3\Interface_CSharp\obj\Debug\net10.0\myProject.genruntimeconfig.cache
+G:\bf7bf5b1556d35978b0132e017a849b3\Interface_CSharp\obj\Debug\net10.0\ref\myProject.dll
