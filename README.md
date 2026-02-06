@@ -1,1 +1,1 @@
-# Example-of-using-Interface-in-C-C-
+# Example of using Interface in C++ & C# 
