@@ -6,6 +6,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interface_CSharp", "Interfa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myProject", "Interface_CSharp\myProject.csproj", "{31316A43-6B72-5997-D7E5-EDD4AAECADE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_simulation", "Interface_simulation\Interface_simulation.csproj", "{FED2EC3D-5219-47E7-9024-547E26E2ED96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -16,12 +18,17 @@ Global
 		{31316A43-6B72-5997-D7E5-EDD4AAECADE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31316A43-6B72-5997-D7E5-EDD4AAECADE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31316A43-6B72-5997-D7E5-EDD4AAECADE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED2EC3D-5219-47E7-9024-547E26E2ED96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED2EC3D-5219-47E7-9024-547E26E2ED96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED2EC3D-5219-47E7-9024-547E26E2ED96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED2EC3D-5219-47E7-9024-547E26E2ED96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{31316A43-6B72-5997-D7E5-EDD4AAECADE9} = {F8A8B06E-908A-D382-D5BD-428E9C0EF60D}
+		{FED2EC3D-5219-47E7-9024-547E26E2ED96} = {F8A8B06E-908A-D382-D5BD-428E9C0EF60D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {69A4B32F-E342-4688-9ECB-6B90BEEB3287}
