@@ -1,0 +1,15 @@
+G:\OOP-Interfaces\Interface_CSharp\bin\Debug\net9.0\myProject.exe
+G:\OOP-Interfaces\Interface_CSharp\bin\Debug\net9.0\myProject.deps.json
+G:\OOP-Interfaces\Interface_CSharp\bin\Debug\net9.0\myProject.runtimeconfig.json
+G:\OOP-Interfaces\Interface_CSharp\bin\Debug\net9.0\myProject.dll
+G:\OOP-Interfaces\Interface_CSharp\bin\Debug\net9.0\myProject.pdb
+G:\OOP-Interfaces\Interface_CSharp\obj\Debug\net9.0\myProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\OOP-Interfaces\Interface_CSharp\obj\Debug\net9.0\myProject.AssemblyInfoInputs.cache
+G:\OOP-Interfaces\Interface_CSharp\obj\Debug\net9.0\myProject.AssemblyInfo.cs
+G:\OOP-Interfaces\Interface_CSharp\obj\Debug\net9.0\myProject.csproj.CoreCompileInputs.cache
+G:\OOP-Interfaces\Interface_CSharp\obj\Debug\net9.0\myProject.sourcelink.json
+G:\OOP-Interfaces\Interface_CSharp\obj\Debug\net9.0\myProject.dll
+G:\OOP-Interfaces\Interface_CSharp\obj\Debug\net9.0\refint\myProject.dll
+G:\OOP-Interfaces\Interface_CSharp\obj\Debug\net9.0\myProject.pdb
+G:\OOP-Interfaces\Interface_CSharp\obj\Debug\net9.0\myProject.genruntimeconfig.cache
+G:\OOP-Interfaces\Interface_CSharp\obj\Debug\net9.0\ref\myProject.dll
