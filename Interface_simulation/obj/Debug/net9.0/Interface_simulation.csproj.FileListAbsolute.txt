@@ -1,0 +1,15 @@
+G:\OOP-Interfaces\Interface_simulation\bin\Debug\net9.0\Interface_simulation.exe
+G:\OOP-Interfaces\Interface_simulation\bin\Debug\net9.0\Interface_simulation.deps.json
+G:\OOP-Interfaces\Interface_simulation\bin\Debug\net9.0\Interface_simulation.runtimeconfig.json
+G:\OOP-Interfaces\Interface_simulation\bin\Debug\net9.0\Interface_simulation.dll
+G:\OOP-Interfaces\Interface_simulation\bin\Debug\net9.0\Interface_simulation.pdb
+G:\OOP-Interfaces\Interface_simulation\obj\Debug\net9.0\Interface_simulation.GeneratedMSBuildEditorConfig.editorconfig
+G:\OOP-Interfaces\Interface_simulation\obj\Debug\net9.0\Interface_simulation.AssemblyInfoInputs.cache
+G:\OOP-Interfaces\Interface_simulation\obj\Debug\net9.0\Interface_simulation.AssemblyInfo.cs
+G:\OOP-Interfaces\Interface_simulation\obj\Debug\net9.0\Interface_simulation.csproj.CoreCompileInputs.cache
+G:\OOP-Interfaces\Interface_simulation\obj\Debug\net9.0\Interface_simulation.sourcelink.json
+G:\OOP-Interfaces\Interface_simulation\obj\Debug\net9.0\Interface_simulation.dll
+G:\OOP-Interfaces\Interface_simulation\obj\Debug\net9.0\refint\Interface_simulation.dll
+G:\OOP-Interfaces\Interface_simulation\obj\Debug\net9.0\Interface_simulation.pdb
+G:\OOP-Interfaces\Interface_simulation\obj\Debug\net9.0\Interface_simulation.genruntimeconfig.cache
+G:\OOP-Interfaces\Interface_simulation\obj\Debug\net9.0\ref\Interface_simulation.dll
