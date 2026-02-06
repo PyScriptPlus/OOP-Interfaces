@@ -6,5 +6,7 @@ namespace myProject
 {
     internal interface IStudents
     {
+        void name(out string firstName, out string lastName);
+        void studentCode(long code);
     }
 }
