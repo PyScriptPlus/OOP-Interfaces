@@ -1,0 +1,15 @@
+G:\OOP-Interfaces\Non-generic practice with C#\bin\Debug\net9.0\Non-generic practice with C#.exe
+G:\OOP-Interfaces\Non-generic practice with C#\bin\Debug\net9.0\Non-generic practice with C#.deps.json
+G:\OOP-Interfaces\Non-generic practice with C#\bin\Debug\net9.0\Non-generic practice with C#.runtimeconfig.json
+G:\OOP-Interfaces\Non-generic practice with C#\bin\Debug\net9.0\Non-generic practice with C#.dll
+G:\OOP-Interfaces\Non-generic practice with C#\bin\Debug\net9.0\Non-generic practice with C#.pdb
+G:\OOP-Interfaces\Non-generic practice with C#\obj\Debug\net9.0\Non-generic practice with C#.GeneratedMSBuildEditorConfig.editorconfig
+G:\OOP-Interfaces\Non-generic practice with C#\obj\Debug\net9.0\Non-generic practice with C#.AssemblyInfoInputs.cache
+G:\OOP-Interfaces\Non-generic practice with C#\obj\Debug\net9.0\Non-generic practice with C#.AssemblyInfo.cs
+G:\OOP-Interfaces\Non-generic practice with C#\obj\Debug\net9.0\Non-generic practice with C#.csproj.CoreCompileInputs.cache
+G:\OOP-Interfaces\Non-generic practice with C#\obj\Debug\net9.0\Non-generic practice with C#.sourcelink.json
+G:\OOP-Interfaces\Non-generic practice with C#\obj\Debug\net9.0\Non-generic practice with C#.dll
+G:\OOP-Interfaces\Non-generic practice with C#\obj\Debug\net9.0\refint\Non-generic practice with C#.dll
+G:\OOP-Interfaces\Non-generic practice with C#\obj\Debug\net9.0\Non-generic practice with C#.pdb
+G:\OOP-Interfaces\Non-generic practice with C#\obj\Debug\net9.0\Non-generic practice with C#.genruntimeconfig.cache
+G:\OOP-Interfaces\Non-generic practice with C#\obj\Debug\net9.0\ref\Non-generic practice with C#.dll
