@@ -1,0 +1,15 @@
+G:\OOP-Interfaces\Delegate\bin\Debug\net9.0\Delegate.exe
+G:\OOP-Interfaces\Delegate\bin\Debug\net9.0\Delegate.deps.json
+G:\OOP-Interfaces\Delegate\bin\Debug\net9.0\Delegate.runtimeconfig.json
+G:\OOP-Interfaces\Delegate\bin\Debug\net9.0\Delegate.dll
+G:\OOP-Interfaces\Delegate\bin\Debug\net9.0\Delegate.pdb
+G:\OOP-Interfaces\Delegate\obj\Debug\net9.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+G:\OOP-Interfaces\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfoInputs.cache
+G:\OOP-Interfaces\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfo.cs
+G:\OOP-Interfaces\Delegate\obj\Debug\net9.0\Delegate.csproj.CoreCompileInputs.cache
+G:\OOP-Interfaces\Delegate\obj\Debug\net9.0\Delegate.sourcelink.json
+G:\OOP-Interfaces\Delegate\obj\Debug\net9.0\Delegate.dll
+G:\OOP-Interfaces\Delegate\obj\Debug\net9.0\refint\Delegate.dll
+G:\OOP-Interfaces\Delegate\obj\Debug\net9.0\Delegate.pdb
+G:\OOP-Interfaces\Delegate\obj\Debug\net9.0\Delegate.genruntimeconfig.cache
+G:\OOP-Interfaces\Delegate\obj\Debug\net9.0\ref\Delegate.dll
