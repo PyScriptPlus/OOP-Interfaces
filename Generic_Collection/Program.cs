@@ -53,11 +53,19 @@
 
             //--------------------------------------------------//
 
-            // Naghes!!!
-            //System.Collections.Generic.Comparer<string> com = new();
+            // Fargh Comparer ba CompareTo:
+            // CompareTo: Faghat roye meghdar moghayese mikone
+            // Comparer: Mituni Object ham moghayese koni
 
-
-
+            System.Collections.Generic.Comparer<int> Comparative = Comparer<int>.Default;
+            // Baraye Comparative (Moghayese kardan) estefade mishe
+            int res = Comparative.Compare(5, 3);
+            // Comparative.Compare(A, B);
+            // Halat:
+            // 1- A > B --> 1
+            // 2- A < B --> -1
+            // 3- A == B --> 0
+            Console.WriteLine(res); // Output --> 1
 
             //--------------------------------------------------//
 
