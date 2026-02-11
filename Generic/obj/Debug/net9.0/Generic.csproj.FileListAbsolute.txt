@@ -1,0 +1,15 @@
+G:\OOP-Interfaces\Generic\bin\Debug\net9.0\Generic.exe
+G:\OOP-Interfaces\Generic\bin\Debug\net9.0\Generic.deps.json
+G:\OOP-Interfaces\Generic\bin\Debug\net9.0\Generic.runtimeconfig.json
+G:\OOP-Interfaces\Generic\bin\Debug\net9.0\Generic.dll
+G:\OOP-Interfaces\Generic\bin\Debug\net9.0\Generic.pdb
+G:\OOP-Interfaces\Generic\obj\Debug\net9.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+G:\OOP-Interfaces\Generic\obj\Debug\net9.0\Generic.AssemblyInfoInputs.cache
+G:\OOP-Interfaces\Generic\obj\Debug\net9.0\Generic.AssemblyInfo.cs
+G:\OOP-Interfaces\Generic\obj\Debug\net9.0\Generic.csproj.CoreCompileInputs.cache
+G:\OOP-Interfaces\Generic\obj\Debug\net9.0\Generic.sourcelink.json
+G:\OOP-Interfaces\Generic\obj\Debug\net9.0\Generic.dll
+G:\OOP-Interfaces\Generic\obj\Debug\net9.0\refint\Generic.dll
+G:\OOP-Interfaces\Generic\obj\Debug\net9.0\Generic.pdb
+G:\OOP-Interfaces\Generic\obj\Debug\net9.0\Generic.genruntimeconfig.cache
+G:\OOP-Interfaces\Generic\obj\Debug\net9.0\ref\Generic.dll
