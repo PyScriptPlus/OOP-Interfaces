@@ -1,0 +1,15 @@
+G:\OOP-Interfaces\Generic_For_Function\bin\Debug\net9.0\Generic_For_Function.exe
+G:\OOP-Interfaces\Generic_For_Function\bin\Debug\net9.0\Generic_For_Function.deps.json
+G:\OOP-Interfaces\Generic_For_Function\bin\Debug\net9.0\Generic_For_Function.runtimeconfig.json
+G:\OOP-Interfaces\Generic_For_Function\bin\Debug\net9.0\Generic_For_Function.dll
+G:\OOP-Interfaces\Generic_For_Function\bin\Debug\net9.0\Generic_For_Function.pdb
+G:\OOP-Interfaces\Generic_For_Function\obj\Debug\net9.0\Generic_For_Function.GeneratedMSBuildEditorConfig.editorconfig
+G:\OOP-Interfaces\Generic_For_Function\obj\Debug\net9.0\Generic_For_Function.AssemblyInfoInputs.cache
+G:\OOP-Interfaces\Generic_For_Function\obj\Debug\net9.0\Generic_For_Function.AssemblyInfo.cs
+G:\OOP-Interfaces\Generic_For_Function\obj\Debug\net9.0\Generic_For_Function.csproj.CoreCompileInputs.cache
+G:\OOP-Interfaces\Generic_For_Function\obj\Debug\net9.0\Generic_For_Function.sourcelink.json
+G:\OOP-Interfaces\Generic_For_Function\obj\Debug\net9.0\Generic_For_Function.dll
+G:\OOP-Interfaces\Generic_For_Function\obj\Debug\net9.0\refint\Generic_For_Function.dll
+G:\OOP-Interfaces\Generic_For_Function\obj\Debug\net9.0\Generic_For_Function.pdb
+G:\OOP-Interfaces\Generic_For_Function\obj\Debug\net9.0\Generic_For_Function.genruntimeconfig.cache
+G:\OOP-Interfaces\Generic_For_Function\obj\Debug\net9.0\ref\Generic_For_Function.dll
