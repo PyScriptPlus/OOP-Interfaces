@@ -1,0 +1,15 @@
+G:\OOP-Interfaces\Generic_for_Class\bin\Debug\net9.0\Generic_for_Class.exe
+G:\OOP-Interfaces\Generic_for_Class\bin\Debug\net9.0\Generic_for_Class.deps.json
+G:\OOP-Interfaces\Generic_for_Class\bin\Debug\net9.0\Generic_for_Class.runtimeconfig.json
+G:\OOP-Interfaces\Generic_for_Class\bin\Debug\net9.0\Generic_for_Class.dll
+G:\OOP-Interfaces\Generic_for_Class\bin\Debug\net9.0\Generic_for_Class.pdb
+G:\OOP-Interfaces\Generic_for_Class\obj\Debug\net9.0\Generic_for_Class.GeneratedMSBuildEditorConfig.editorconfig
+G:\OOP-Interfaces\Generic_for_Class\obj\Debug\net9.0\Generic_for_Class.AssemblyInfoInputs.cache
+G:\OOP-Interfaces\Generic_for_Class\obj\Debug\net9.0\Generic_for_Class.AssemblyInfo.cs
+G:\OOP-Interfaces\Generic_for_Class\obj\Debug\net9.0\Generic_for_Class.csproj.CoreCompileInputs.cache
+G:\OOP-Interfaces\Generic_for_Class\obj\Debug\net9.0\Generic_for_Class.sourcelink.json
+G:\OOP-Interfaces\Generic_for_Class\obj\Debug\net9.0\Generic_for_Class.dll
+G:\OOP-Interfaces\Generic_for_Class\obj\Debug\net9.0\refint\Generic_for_Class.dll
+G:\OOP-Interfaces\Generic_for_Class\obj\Debug\net9.0\Generic_for_Class.pdb
+G:\OOP-Interfaces\Generic_for_Class\obj\Debug\net9.0\Generic_for_Class.genruntimeconfig.cache
+G:\OOP-Interfaces\Generic_for_Class\obj\Debug\net9.0\ref\Generic_for_Class.dll
