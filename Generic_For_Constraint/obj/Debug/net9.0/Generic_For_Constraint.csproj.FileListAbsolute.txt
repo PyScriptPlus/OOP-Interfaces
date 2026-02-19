@@ -1,0 +1,15 @@
+G:\OOP-Interfaces\Generic_For_Constraint\bin\Debug\net9.0\Generic_For_Constraint.exe
+G:\OOP-Interfaces\Generic_For_Constraint\bin\Debug\net9.0\Generic_For_Constraint.deps.json
+G:\OOP-Interfaces\Generic_For_Constraint\bin\Debug\net9.0\Generic_For_Constraint.runtimeconfig.json
+G:\OOP-Interfaces\Generic_For_Constraint\bin\Debug\net9.0\Generic_For_Constraint.dll
+G:\OOP-Interfaces\Generic_For_Constraint\bin\Debug\net9.0\Generic_For_Constraint.pdb
+G:\OOP-Interfaces\Generic_For_Constraint\obj\Debug\net9.0\Generic_For_Constraint.GeneratedMSBuildEditorConfig.editorconfig
+G:\OOP-Interfaces\Generic_For_Constraint\obj\Debug\net9.0\Generic_For_Constraint.AssemblyInfoInputs.cache
+G:\OOP-Interfaces\Generic_For_Constraint\obj\Debug\net9.0\Generic_For_Constraint.AssemblyInfo.cs
+G:\OOP-Interfaces\Generic_For_Constraint\obj\Debug\net9.0\Generic_For_Constraint.csproj.CoreCompileInputs.cache
+G:\OOP-Interfaces\Generic_For_Constraint\obj\Debug\net9.0\Generic_For_Constraint.sourcelink.json
+G:\OOP-Interfaces\Generic_For_Constraint\obj\Debug\net9.0\Generic_For_Constraint.dll
+G:\OOP-Interfaces\Generic_For_Constraint\obj\Debug\net9.0\refint\Generic_For_Constraint.dll
+G:\OOP-Interfaces\Generic_For_Constraint\obj\Debug\net9.0\Generic_For_Constraint.pdb
+G:\OOP-Interfaces\Generic_For_Constraint\obj\Debug\net9.0\Generic_For_Constraint.genruntimeconfig.cache
+G:\OOP-Interfaces\Generic_For_Constraint\obj\Debug\net9.0\ref\Generic_For_Constraint.dll
